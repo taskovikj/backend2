@@ -1,0 +1,1 @@
+web: java -jar target/second-hw-final-0.0.1.jar
